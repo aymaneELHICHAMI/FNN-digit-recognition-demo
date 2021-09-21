@@ -1,2 +1,2 @@
 # FNN_Digit_Recognition
-Developping an algorithm for digit recognition
+Developping a feedforward neural network algorithm for digits recognition
